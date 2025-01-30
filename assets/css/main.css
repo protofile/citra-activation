@@ -886,7 +886,7 @@ body.boxed-wrapper {
 
 .stricky-header.main-menu-three--dark,
 .main-header-three--dark {
-    background-color: var(--thm-black);
+    background-color: #06175B;
 }
 
 
@@ -3106,7 +3106,7 @@ body.boxed-wrapper {
     right: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.02;
+    opacity: 0.1;
 }
 
 .counters-one__box {
@@ -3145,7 +3145,7 @@ body.boxed-wrapper {
     height: 110px;
     width: 110px;
     margin: 0 auto;
-    background-color: #06050c;
+    background-color: #fff;
     align-items: center;
     justify-content: center;
 }
